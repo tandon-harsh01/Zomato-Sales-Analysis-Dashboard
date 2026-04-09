@@ -1,4 +1,4 @@
-# Zomato-Dashboard
+# Zomato Sales Analysis Dashboard
 📊 Power BI Data Analysis Dashboard
                                                                    🚀 Overview
 The Power BI Data Analysis Dashboard is an end-to-end business intelligence project designed to transform raw data into meaningful insights through interactive and visually compelling reports. This dashboard helps stakeholders quickly understand key metrics, identify trends, and make data-driven decisions.
